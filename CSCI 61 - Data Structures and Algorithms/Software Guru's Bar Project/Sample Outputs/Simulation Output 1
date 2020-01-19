@@ -1,0 +1,393 @@
+Capacity: 50 seats
+
+Time: 4 Group of 2 customers arrives ... Group is seated
+Time: 8 Served order for beer 2
+Time: 8 Served order for beer 2
+Time: 9 Group of 2 customers arrives ... Group is seated
+Time: 12 Group of 4 customers arrives ... Group is seated
+Time: 13 Served order for beer 2
+Time: 13 Served order for beer 2
+Time: 13 Served order for beer 2
+Time: 13 Served order for beer 2
+Time: 14 Served order for beer 2
+Time: 14 Served order for beer 2
+Time: 16 Group of 1 customers arrives ... Group is seated
+Time: 17 Served order for beer 2
+Time: 18 Group of 4 customers arrives ... Group is seated
+Time: 20 Group of 1 customers arrives ... Group is seated
+Time: 22 Served order for beer 1
+Time: 22 Served order for beer 2
+Time: 22 Served order for beer 2
+Time: 22 Served order for beer 2
+Time: 24 Served order for beer 2
+Time: 26 Group of 1 customers arrives ... Group is seated
+Time: 28 Served order for beer 2
+Time: 31 Group of 1 customers arrives ... Group is seated
+Time: 33 Group of 2 customers arrives ... Group is seated
+Time: 33 Served order for beer 2
+Time: 35 Group of size 4 leaves
+Time: 35 Served order for beer 1
+Time: 35 Served order for beer 2
+Time: 35 Group of 2 customers arrives ... Group is seated
+Time: 36 Served order for beer 2
+Time: 36 Served order for beer 2
+Time: 37 Group of 2 customers arrives ... Group is seated
+Time: 40 Group of 2 customers arrives ... Group is seated
+Time: 40 Served order for beer 2
+Time: 40 Served order for beer 2
+Time: 41 Served order for beer 2
+Time: 41 Served order for beer 2
+Time: 45 Group of 4 customers arrives ... Group is seated
+Time: 46 Group of size 2 leaves
+Time: 48 Group of size 2 leaves
+Time: 48 Served order for beer 2
+Time: 48 Served order for beer 2
+Time: 48 Served order for beer 2
+Time: 48 Served order for beer 2
+Time: 49 Group of 2 customers arrives ... Group is seated
+Time: 50 Group of size 1 leaves
+Time: 51 Group of 1 customers arrives ... Group is seated
+Time: 53 Group of size 1 leaves
+Time: 53 Served order for beer 2
+Time: 54 Served order for beer 1
+Time: 54 Served order for beer 1
+Time: 56 Group of 1 customers arrives ... Group is seated
+Time: 57 Served order for beer 1
+Time: 58 Group of 1 customers arrives ... Group is seated
+Time: 59 Group of 4 reorders
+Time: 59 Served order for beer 2
+Time: 59 Served order for beer 2
+Time: 59 Served order for beer 1
+Time: 59 Served order for beer 2
+Time: 59 Served order for beer 2
+Time: 61 Group of 2 reorders
+Time: 61 Served order for beer 2
+Time: 61 Served order for beer 2
+Time: 63 Group of 4 customers arrives ... Group is seated
+Time: 64 Group of size 1 leaves
+Time: 65 Group of 2 customers arrives ... Group is seated
+Time: 66 Group of 1 reorders
+Time: 66 Served order for beer 2
+Time: 66 Served order for beer 2
+Time: 66 Served order for beer 1
+Time: 66 Served order for beer 2
+Time: 66 Served order for beer 2
+Time: 69 Group of 4 customers arrives ... Group is seated
+Time: 70 Served order for beer 1
+Time: 70 Served order for beer 2
+Time: 70 Served order for beer 2
+Time: 70 Served order for beer 2
+Time: 70 Served order for beer 2
+Time: 70 Served order for beer 2
+Time: 71 Group of 4 customers arrives ... Group is seated
+Time: 73 Served order for beer 2
+Time: 73 Served order for beer 2
+Time: 73 Served order for beer 2
+Time: 73 Served order for beer 1
+Time: 74 Group of 2 reorders
+Time: 74 Served order for beer 2
+Time: 74 Served order for beer 2
+Time: 75 Group of 2 customers arrives ... Group is seated
+Time: 75 Group of size 4 leaves
+Time: 76 Group of size 2 leaves
+Time: 79 Group of 2 customers arrives ... Group is seated
+Time: 79 Served order for beer 2
+Time: 79 Served order for beer 2
+Time: 81 Group of 4 customers arrives ... Group is seated
+Time: 84 Served order for beer 1
+Time: 84 Served order for beer 2
+Time: 84 Served order for beer 2
+Time: 84 Served order for beer 1
+Time: 84 Served order for beer 2
+Time: 84 Served order for beer 2
+Time: 85 Group of size 2 leaves
+Time: 86 Group of 5 customers arrives ... Group is seated
+Time: 87 Served order for beer 2
+Time: 87 Served order for beer 2
+Time: 87 Served order for beer 2
+Time: 87 Served order for beer 2
+Time: 87 Served order for beer 2
+Time: 89 Group of 4 reorders
+Time: 89 Served order for beer 2
+Time: 89 Served order for beer 2
+Time: 89 Served order for beer 2
+Time: 89 Served order for beer 2
+Time: 90 Group of size 4 leaves
+Time: 91 Group of 4 customers arrives ... Group is seated
+Time: 91 Group of size 4 leaves
+Time: 92 Group of 1 reorders
+Time: 92 Served order for beer 1
+Time: 93 Group of 2 reorders
+Time: 93 Served order for beer 2
+Time: 93 Served order for beer 2
+Time: 93 Served order for beer 2
+Time: 93 Served order for beer 2
+Time: 93 Served order for beer 1
+Time: 93 Served order for beer 2
+Time: 95 Group of size 1 leaves
+Time: 96 Group of size 2 leaves
+Time: 96 Group of size 1 leaves
+Time: 96 Group of 2 customers arrives ... Group is seated
+Time: 97 Served order for beer 2
+Time: 97 Served order for beer 2
+Time: 98 Group of 2 customers arrives ... Group is seated
+Time: 99 Group of size 2 leaves
+Time: 99 Served order for beer 2
+Time: 99 Served order for beer 2
+Time: 100 Group of size 2 leaves
+Time: 104 Group of 4 customers arrives ... Group is seated
+Time: 106 Group of size 1 leaves
+Time: 107 Served order for beer 2
+Time: 107 Served order for beer 2
+Time: 107 Served order for beer 2
+Time: 107 Served order for beer 2
+Time: 108 Group of 2 customers arrives ... Group is seated
+Time: 111 Served order for beer 2
+Time: 111 Served order for beer 1
+Time: 112 Group of size 1 leaves
+Time: 113 Group of 1 customers arrives ... Group is seated
+Time: 114 Group of 4 reorders
+Time: 114 Served order for beer 2
+Time: 114 Served order for beer 2
+Time: 114 Served order for beer 2
+Time: 114 Served order for beer 2
+Time: 115 Group of size 4 leaves
+Time: 116 Group of 1 customers arrives ... Group is seated
+Time: 117 Served order for beer 2
+Time: 118 Group of size 4 leaves
+Time: 119 Group of size 2 leaves
+Time: 119 Group of size 2 leaves
+Time: 119 Group of size 2 leaves
+Time: 121 Served order for beer 1
+Time: 122 Group of 3 customers arrives ... Group is seated
+Time: 123 Group of size 4 leaves
+Time: 125 Group of size 2 leaves
+Time: 126 Group of 3 customers arrives ... Group is seated
+Time: 126 Served order for beer 2
+Time: 126 Served order for beer 1
+Time: 126 Served order for beer 2
+Time: 130 Served order for beer 2
+Time: 130 Served order for beer 2
+Time: 130 Served order for beer 2
+Time: 131 Group of 5 reorders
+Time: 131 Served order for beer 2
+Time: 131 Served order for beer 2
+Time: 131 Served order for beer 2
+Time: 131 Served order for beer 1
+Time: 131 Served order for beer 2
+Time: 131 Group of 4 customers arrives ... Group is seated
+Time: 131 Group of size 4 leaves
+Time: 133 Group of 2 customers arrives ... Group is seated
+Time: 133 Group of size 4 leaves
+Time: 136 Served order for beer 2
+Time: 136 Served order for beer 2
+Time: 136 Served order for beer 2
+Time: 136 Served order for beer 2
+Time: 137 Group of 2 customers arrives ... Group is seated
+Time: 137 Served order for beer 2
+Time: 137 Served order for beer 1
+Time: 140 Group of 2 customers arrives ... Group is seated
+Time: 140 Served order for beer 1
+Time: 140 Served order for beer 1
+Time: 140 Group of size 2 leaves
+Time: 142 Served order for beer 2
+Time: 142 Served order for beer 1
+Time: 143 Group of 3 customers arrives ... Group is seated
+Time: 144 Group of 2 reorders
+Time: 144 Served order for beer 2
+Time: 144 Served order for beer 2
+Time: 144 Group of size 1 leaves
+Time: 145 Served order for beer 1
+Time: 145 Served order for beer 2
+Time: 145 Served order for beer 1
+Time: 147 Group of 2 customers arrives ... Group is seated
+Time: 148 Group of size 1 leaves
+Time: 148 Served order for beer 2
+Time: 148 Served order for beer 2
+Time: 152 Group of 1 customers arrives ... Group is seated
+Time: 157 Group of 3 customers arrives ... Group is seated
+Time: 157 Served order for beer 2
+Time: 158 Group of size 3 leaves
+Time: 158 Group of size 3 leaves
+Time: 159 Group of 2 customers arrives ... Group is seated
+Time: 161 Served order for beer 1
+Time: 161 Served order for beer 1
+Time: 161 Served order for beer 2
+Time: 163 Served order for beer 2
+Time: 163 Served order for beer 1
+Time: 164 Group of 2 customers arrives ... Group is seated
+Time: 167 Group of size 2 leaves
+Time: 167 Group of size 4 leaves
+Time: 167 Group of 1 customers arrives ... Group is seated
+Time: 168 Served order for beer 1
+Time: 168 Served order for beer 2
+Time: 169 Group of 5 reorders
+Time: 169 Served order for beer 1
+Time: 169 Served order for beer 1
+Time: 169 Served order for beer 2
+Time: 169 Served order for beer 2
+Time: 169 Served order for beer 2
+Time: 169 Served order for beer 2
+Time: 170 Group of size 2 leaves
+Time: 173 Group of 2 customers arrives ... Group is seated
+Time: 174 Group of size 3 leaves
+Time: 175 Served order for beer 1
+Time: 175 Served order for beer 2
+Time: 179 Group of size 2 leaves
+Time: 179 Group of 3 customers arrives ... Group is seated
+Time: 182 Group of 4 customers arrives ... Group is seated
+Time: 182 Served order for beer 2
+Time: 182 Served order for beer 2
+Time: 182 Served order for beer 1
+Time: 183 Served order for beer 1
+Time: 183 Served order for beer 2
+Time: 183 Served order for beer 1
+Time: 183 Served order for beer 2
+Time: 184 Group of 2 reorders
+Time: 184 Served order for beer 2
+Time: 184 Served order for beer 2
+Time: 184 Group of 2 customers arrives ... Group is seated
+Time: 185 Group of size 2 leaves
+Time: 186 Group of 2 customers arrives ... Group is seated
+Time: 187 Group of 3 reorders
+Time: 187 Served order for beer 2
+Time: 187 Served order for beer 1
+Time: 187 Served order for beer 2
+Time: 189 Group of 3 customers arrives ... Group is seated
+Time: 189 Served order for beer 2
+Time: 189 Served order for beer 2
+Time: 189 Group of size 1 leaves
+Time: 190 Group of 2 reorders
+Time: 190 Served order for beer 2
+Time: 190 Served order for beer 2
+Time: 191 Served order for beer 2
+Time: 191 Served order for beer 2
+Time: 191 Served order for beer 1
+Time: 191 Served order for beer 2
+Time: 191 Served order for beer 2
+Time: 194 Group of 3 customers arrives ... Group is seated
+Time: 196 Group of 2 reorders
+Time: 196 Served order for beer 2
+Time: 196 Served order for beer 2
+Time: 196 Served order for beer 2
+Time: 196 Served order for beer 2
+Time: 196 Served order for beer 2
+Time: 199 Group of 2 reorders
+Time: 199 Served order for beer 2
+Time: 199 Served order for beer 2
+Time: 199 Group of 5 customers arrives ... Group is seated
+Time: 202 Group of 4 customers arrives ... Group is seated
+Time: 202 Group of size 4 leaves
+Time: 202 Served order for beer 2
+Time: 202 Served order for beer 2
+Time: 202 Served order for beer 2
+Time: 202 Served order for beer 1
+Time: 202 Served order for beer 2
+Time: 203 Served order for beer 1
+Time: 203 Served order for beer 2
+Time: 203 Served order for beer 2
+Time: 203 Served order for beer 1
+Time: 204 Group of 2 reorders
+Time: 204 Served order for beer 2
+Time: 204 Served order for beer 2
+Time: 206 Group of 1 reorders
+Time: 206 Served order for beer 2
+Time: 207 Group of 2 customers arrives ... Group is seated
+Time: 207 Group of 2 reorders
+Time: 207 Served order for beer 2
+Time: 207 Served order for beer 2
+Time: 207 Group of size 3 leaves
+Time: 209 Served order for beer 2
+Time: 209 Served order for beer 2
+Time: 211 Group of 2 customers arrives ... Group is seated
+Time: 215 Group of 1 customers arrives ... Group is seated
+Time: 216 Group of 5 reorders
+Time: 216 Served order for beer 2
+Time: 216 Served order for beer 2
+Time: 216 Served order for beer 2
+Time: 216 Served order for beer 2
+Time: 216 Served order for beer 1
+Time: 216 Served order for beer 1
+Time: 216 Served order for beer 2
+Time: 218 Group of 4 customers arrives ... Group is seated
+Time: 219 Group of 3 reorders
+Time: 219 Served order for beer 2
+Time: 219 Served order for beer 2
+Time: 219 Served order for beer 2
+Time: 219 Served order for beer 2
+Time: 221 Group of size 2 leaves
+Time: 222 Group of 2 customers arrives ... Group is seated
+Time: 222 Served order for beer 2
+Time: 222 Served order for beer 2
+Time: 222 Served order for beer 2
+Time: 222 Served order for beer 2
+Time: 225 Served order for beer 2
+Time: 225 Served order for beer 2
+Time: 227 Group of 4 customers arrives ... Group is seated
+Time: 229 Group of 4 customers arrives ... No room, group leaves
+Time: 229 Group of size 2 leaves
+Time: 231 Group of 2 reorders
+Time: 231 Served order for beer 1
+Time: 231 Served order for beer 1
+Time: 232 Group of size 2 leaves
+Time: 232 Served order for beer 2
+Time: 232 Served order for beer 1
+Time: 232 Served order for beer 2
+Time: 232 Served order for beer 2
+Time: 234 Group of size 3 leaves
+Time: 235 Group of 2 customers arrives ... Group is seated
+Time: 236 Group of size 2 leaves
+Time: 236 Served order for beer 2
+Time: 236 Served order for beer 2
+Time: 237 Group of 3 customers arrives ... Group is seated
+Time: 238 Group of 4 reorders
+Time: 238 Served order for beer 2
+Time: 238 Served order for beer 2
+Time: 238 Served order for beer 2
+Time: 238 Served order for beer 1
+Time: 238 Group of size 1 leaves
+Time: 239 Group of size 5 leaves
+Time: 239 Group of 1 reorders
+Time: 239 Served order for beer 2
+Time: 240 Group of 2 reorders
+Time: 240 Served order for beer 2
+Time: 240 Served order for beer 2
+Time: 242 Served order for beer 2
+Time: 242 Served order for beer 1
+Time: 242 Served order for beer 2
+Time: 243 Group of 2 customers arrives ... Group is seated
+Time: 245 Group of 3 reorders
+Time: 245 Served order for beer 2
+Time: 245 Served order for beer 1
+Time: 245 Served order for beer 2
+Time: 245 Group of size 2 leaves
+Time: 248 Served order for beer 2
+Time: 248 Served order for beer 2
+Time: 250 Group of size 3 leaves
+Time: 252 Group of size 2 leaves
+Time: 255 Group of size 2 leaves
+Time: 255 Group of size 1 leaves
+Time: 255 Group of size 4 leaves
+Time: 255 Group of size 5 leaves
+Time: 256 Group of size 2 leaves
+Time: 263 Group of size 2 leaves
+Time: 265 Group of size 4 leaves
+Time: 266 Group of 2 reorders
+Time: 266 Served order for beer 2
+Time: 266 Served order for beer 1
+Time: 274 Group of 3 reorders
+Time: 274 Served order for beer 1
+Time: 274 Served order for beer 1
+Time: 274 Served order for beer 2
+Time: 275 Group of 4 reorders
+Time: 275 Served order for beer 2
+Time: 275 Served order for beer 2
+Time: 275 Served order for beer 2
+Time: 275 Served order for beer 2
+Time: 277 Group of size 3 leaves
+Time: 283 Group of size 2 leaves
+Time: 289 Group of size 2 leaves
+Time: 310 Group of size 3 leaves
+Time: 311 Group of size 4 leaves
+Time: 311 Group of size 4 leaves
+Total Profit: 650
