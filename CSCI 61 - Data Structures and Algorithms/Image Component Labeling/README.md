@@ -1,6 +1,6 @@
-Image Component Labeling
+# Image Component Labeling
 
-Depth-First Search using a stack. Breadth-First Search using a queue.
+### Depth-First Search using a stack. Breadth-First Search using a queue.
 
 In this project, I used C++ to write an algorithm that labels components in an image. The program uses stack and queue data structures to implement depth-first and breadth-first search algorithms.
 

@@ -1,6 +1,6 @@
-Software Guru's Bar
+# Software Guru's Bar
 
-Discrete Event-Driven Simulation: An Application of Priority Queues
+### Discrete Event-Driven Simulation: An Application of Priority Queues
 
 In this project, I used C++ to design a simulation of a bar. To do this, I used my knowledge of object oriented programing and priority queues to develop a design a discrete event-driven simulation.
 
