@@ -1,0 +1,14 @@
+Name: Casey Bates
+Date 10/1/20
+Title: Lab 2 - Programming in C and Use of System Calls
+Description: Answers to questions, observations, and notes.
+
+Step 3 - When executing the file by running ./step1 (with no argument), the program returned a segmentation fault error.
+
+Step 4 - Running the program with an argument of 500, I noticed there was a lot of back and forth between the parent and child processes. There were a bunch of lines where one process would print twice in a rowm before the other process could print to the console. This only happened once or twice after changing the parameter to 5000. With both parameters, the parent process completed last.
+
+Step 5 - It was a bit of a challenge wrapping my head around all of the processes and their children. I eventually found that the best way was to call an outside function that creates two children processes for each parent. I also noticed that at first the original process finished before any of the children processes. I was able to fix that by adding the wait() function.  
+
+Step 6 - To create a multi-thread program, I needed the pthread_t, pthread_create(), and pthread_join() from the pthread library. In order to compile the program, I needed to add "-l pthread" so the compiler would recognize the pthread library. When using a delay of 5000 ms I found that both threads would finish at about the same time. However, using 500 microseconds had a different result each time, with the new original thread completing the loop first most of the time. 
+
+Step 7 - This step was fairly simple. After forking, the child (pid = 0) will execute the ls command, while the parent (pid > 0) will wait until the child is finished.  

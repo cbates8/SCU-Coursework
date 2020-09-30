@@ -1,0 +1,10 @@
+Name: Casey Bates
+Date: 9/24
+Title: Lab 1 - Shell Programming
+Description: This text file contains notes and observations from throughout the lab.
+
+At first, the program didn't run the rectangle while script. I realized this was because I needed to change the username "salagtash" to my own username "cbates". The program finished without issues, but I noticed that answering "no" rather than "No" continues the while loop (as expected from looking at the code)".
+
+When programming the circle, I was wondering if there was a simple way to calculate the square of an integer, rather than just <$number * $number>. I found that you can easily calculate the power of an integer using <$(($number ** $power))>.
+
+I ran into some trouble with the area calculation, because 3.14 is a float. After some research, I foun that an easy way to do integer & float calculations is to use the "bc" basic calculator. Using the format <"integer * float" | bc>  I was able to easily multiply an integer with Pi.
