@@ -1,0 +1,12 @@
+#Name: Casey Bates
+#Date: 10/8/2020
+#Title: Lab 3 - Pthreads and Inter-process Communication - Pipes
+#Discription: Answers to questions, observations, and notes from lab 3.
+
+Step 1: step1.c effectivley produces the "ls | more" command.
+
+Step 2: step2.c takes any input arguments and prints them to the console with a space between each character.
+
+Step 6: Because threads share the same memory, they will share the same i variable. Since the threads are running simultaneously, multiple threads may be able to print i before it is incremented by the for loop.
+
+Step 7: By adding the line "usleep(i)", each thread will need to wait a different length of time before printing the value of i. This will stagger the threads enough that the for loop will be able to increment i, allowing threads to each print a different value of i.

@@ -1,0 +1,6 @@
+//Name: Casey Bates
+//Date: 22 October 2020
+//Title: Lab 5 - Synchronization Using Semaphores, Locks, and Condition Variables
+//Description: Answers to questions, notes, and observations from the lab.
+
+Step 1 - Threads will enter the critical section one at a time and exit before the next thread is able to enter. The program will print the same output every time, and the main thread will always return last. This differs from threadHello.c becuase in this program prevents threads from printing concurrently, where threadHello.c did not, allowing threads to print the same number.

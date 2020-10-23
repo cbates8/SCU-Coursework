@@ -1,0 +1,10 @@
+Name: Casey Bates
+Date: 15 October 2020
+Title: Lab4 - Developing Multi-Threaded Applications
+Description: Answers to questions, notes, and observations from lab 4
+
+Step 1 - Each time the threadHello program is run, there is a chance that two or more threads will print the same thread number. Because they are running "simultaneously," which thread prints first depends on which thread the cpu runs first. Since the threads share memory, the value of i will be stored once in the process' address space and shared with all threads. Since arg is passed as a reference of i, all threads will have access to the same values of i.
+
+Step 2 - After deleting the second for loop, the threads never re-join with the main thread. In addition, the threads will print any number from 0 to 20 inclusive. This is because there is no second for loop to set the value of i back to 0.
+
+
